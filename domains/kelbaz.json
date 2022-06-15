@@ -1,0 +1,11 @@
+{
+  "description": "Kelbaz's personal greatest website EVER !",
+  "repo": "https://github.com/kodbaz/kodbaz.github.io",
+  "owner": {
+    "username": "Kodbaz",
+    "email": "code.kelbaz@gmail.com"
+  },
+  "record": {
+    "CNAME": "kodbaz.github.io"
+  }
+}
